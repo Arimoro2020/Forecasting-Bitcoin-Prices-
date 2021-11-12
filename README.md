@@ -10,4 +10,8 @@ Data Cleaning & preparation: Dealt with Item rows with NAN values by dropping th
 
 Model Building and Evaluation: The AutoReg model was built to include constant & time trend, 'ct', and lags 24 to 31. The model was evaluated to have Root Mean Square Error (RMSE) of 3675.61.
 
-Conclusion: Then predicted prices trend mostly matches the actual prices trend (see figure: Predicted Bitcoin Price for January 2021 below).
+Conclusion: Then predicted prices trend mostly matches the actual prices trend (see figure: Predicted Bitcoin Price for January 2021 below):
+
+
+![Bitcoin_price_forecast](https://user-images.githubusercontent.com/73043768/141595534-97fd2cb5-c4d0-440b-bc0f-0e21a4b1029c.png)
+
