@@ -13,5 +13,6 @@ Model Building and Evaluation: The AutoReg model was built to include constant &
 Conclusion: Then predicted prices trend mostly matches the actual prices trend (see figure: Predicted Bitcoin Price for March 2021 below):
 
 
-![Bitcoin_price_forecast](https://user-images.githubusercontent.com/73043768/141595534-97fd2cb5-c4d0-440b-bc0f-0e21a4b1029c.png)
+![image](https://user-images.githubusercontent.com/73043768/141615396-834a2bb5-2e0c-4523-85cb-478ebdd323c7.png)
+
 
